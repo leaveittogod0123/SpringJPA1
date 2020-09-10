@@ -10,4 +10,5 @@ thymeleaf
 spring JPA
 lombok
 
-
+slf4 - 인터페이스
+logback - 구현체
